@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">03_recources</string>
+    <string name="first_name">Erik</string>
+    <string name="last_name">Murillo</string>
+</resources>
